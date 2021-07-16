@@ -1,0 +1,42 @@
+.vl {
+  border-left: 6px solid rgb(98, 102, 98);
+  height: 55px;
+}
+#btwlines {
+  color: rgb(143, 16, 194);
+}
+.circle.small {
+  border: 8px solid #e342f8;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  z-index: 86;
+}
+#badge {
+  float: right;
+  background-color: blueviolet;
+  height: 30px;
+  font-size: medium;
+}
+h4 {
+  color: gray;
+}
+body {
+  background-color: gray;
+}
+td:nth-child(1) {
+  width: 10%;
+  background: #ddd;
+}
+
+/* the second */
+td:nth-child(2) {
+  width: 20%;
+  background: #ccc;
+}
+
+/* the third */
+td:nth-child(3) {
+  width: 40%;
+  background: #bbb;
+}
